@@ -4,10 +4,10 @@
     <option name="connections">
       <list>
         <IlluminatedCloudConnection>
-          <option name="connectionName" value="email" />
+          <option name="connectionName" value="Test_dev" />
           <option name="connectionType" value="OAUTH" />
           <option name="defaultModuleName" value="Slider-email" />
-          <option name="offlineSymbolTablePath" value="$PROJECT_DIR$/IlluminatedCloud/email/OfflineSymbolTable.zip" />
+          <option name="offlineSymbolTablePath" value="$PROJECT_DIR$/IlluminatedCloud/Test_dev/OfflineSymbolTable.zip" />
         </IlluminatedCloudConnection>
       </list>
     </option>
